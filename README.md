@@ -228,4 +228,4 @@ pip install -r requirements.txt
 
 ## License
 
-This project does not currently include a license file. If you plan to distribute it publicly, add an appropriate license such as MIT or Apache-2.0.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
