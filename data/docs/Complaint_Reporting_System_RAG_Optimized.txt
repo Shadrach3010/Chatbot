@@ -1,0 +1,113 @@
+Council Complaint Reporting and Service Management System – User Knowledge Base (RAG Optimized)
+System Overview
+
+The Council Complaint Reporting and Service Management System is a digital platform that allows residents to report municipal service-related issues. The system ensures complaints are recorded, reviewed, and resolved in a structured and transparent manner.
+
+Complaint Categories
+
+Users must select one of the following categories when submitting a complaint:
+
+1. Roads & Transport
+
+Issues related to potholes, damaged roads, faded road markings, broken traffic lights, blocked streets, traffic congestion, or public transport-related concerns.
+
+2. Sanitation & Waste
+
+Issues related to missed garbage collection, illegal dumping, overflowing bins, waste management problems, or uncollected refuse.
+
+3. Water & Sewage
+
+Issues related to burst pipes, water leaks, sewage blockages, drainage problems, water shortages, or contaminated water.
+
+4. Electricity
+
+Issues related to power outages, faulty streetlights, exposed electrical wiring, transformer faults, or unstable electricity supply.
+
+5. Other
+
+Any municipal service issue that does not clearly fall into the above categories.
+
+Complaint Submission Methods
+
+Users can submit complaints through:
+
+The web application
+
+WhatsApp chatbot
+
+Complaints may be submitted anonymously or with personal details.
+
+WhatsApp Reporting
+
+When reporting via WhatsApp, users are guided step-by-step through a chat conversation. The chatbot may request:
+
+Category selection
+
+Description of the issue
+
+Location details
+
+Optional contact information
+
+Users may attach supporting evidence such as images, videos, or voice notes. Once submitted, the complaint is logged into the system for review.
+
+Complaint Processing Stages
+
+Submitted complaints move through the following stages:
+
+Pending – Complaint has been received
+
+In Review – Complaint is being assessed
+
+Resolved – Action has been taken
+
+Rejected – Complaint is invalid, incomplete, or outside system scope
+
+Anonymous Reporting
+
+Users may choose to submit complaints anonymously. Personal details are optional unless the user wishes to receive feedback or track their complaint.
+
+User Rights and Responsibilities
+
+Users have the right to:
+
+Confidential handling of their complaint
+
+Fair assessment
+
+Respectful communication
+
+Users must avoid:
+
+Submitting false information
+
+Abusive or offensive content
+
+Duplicate complaints
+
+Data Privacy and Security
+
+All complaint data is securely stored. Personal information, if provided, is protected and accessible only to authorized personnel. WhatsApp data is handled according to applicable platform privacy policies.
+
+Frequently Asked Questions
+
+Can I submit a complaint anonymously?
+Yes. You may choose not to provide personal details when submitting a complaint.
+
+How long does it take to resolve a complaint?
+Resolution time varies depending on the category and complexity of the issue.
+
+Can I submit evidence?
+Yes. Images, videos, and voice notes can be attached, especially when using WhatsApp.
+
+What happens after I submit a complaint?
+Your complaint is recorded, assigned a category, and reviewed by administrators.
+
+Can I track my complaint?
+Tracking is available if you provide contact details or receive a reference ID.
+
+Support and Assistance
+
+For help using the system, users should contact the system administrator.
+
+This platform is not intended for emergency situations. For emergencies, users should contact the appropriate emergency services.
